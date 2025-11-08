@@ -1,3 +1,5 @@
+package Prog_practice;
+
 public class DataTypes {
 
 
