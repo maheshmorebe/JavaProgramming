@@ -1,6 +1,9 @@
+package Prog_practice;
+
+
 import java.util.Scanner;
 
-public class NumberOperations {
+public class NumberOperation {
 
 	int AddNumbers(int x,int y){
 		return x+y;
@@ -36,7 +39,7 @@ public class NumberOperations {
 	int b = sc.nextInt();
 
 
-	NumberOperations nop = new NumberOperations();
+	NumberOperation nop = new NumberOperation();
 
 
 	int addition = nop.AddNumbers(a,b);
